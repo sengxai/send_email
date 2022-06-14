@@ -1,6 +1,0 @@
-API_KEY = '629aa6e138a26a0001d75e5d'
-API_SECRET = 'f3ab0d7e-d2f7-4b42-ad60-95f3cf0fdf46'
-API_PASSWORD = 'superman'
-GMAIL = 'sengxyang97@gmail.com'
-G_PASS = 'wtpfgpbflfqiwnuq'
-RCPT = '7152954620@vtext.com'

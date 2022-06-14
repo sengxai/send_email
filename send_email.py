@@ -12,7 +12,7 @@ def sendEmail():
     password = secrets.G_PASS                # IF 2FA then input your generated email application password
     host = 'smtp.gmail.com'                 # SMTP server of your email provider
     port = '587'                            # SMTP port
-    rcpt = secrets.RCPT
+    rcpt = secrets.RCPT 
 
     #rcpt = input("Enter in recipients address: ") 
 
